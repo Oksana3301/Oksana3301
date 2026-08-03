@@ -28,12 +28,14 @@
 
 ## 🧭 About Me
 
+- 🤖 Building AI ventures for Indonesia: **Larispa** (AI marketing employee for sellers) · **Loopra** (faceless Shorts automation) · **suruh.ai** (AI agent marketplace for UMKM)
 - 🔭 Building **SRIJAU** — a decarbonization & sustainability platform (capstone project)
 - 🏠 Created **KELOLAKOS** — a kost (boarding house) management platform
 - ⛏️ Shipping ops tooling for real industries: **coaltools** (mining) & **constructionops**
 - 📊 Data analytics foundation in **R & Python** — visualization, regression, classification, time series
 - 🌱 Currently deepening **TypeScript + Next.js + Supabase** full-stack development
 - 📍 Indonesia 🇮🇩 · open to collaboration on data-driven & sustainability products
+- 🌐 **Full portfolio → [oksana3301.github.io/portfolio2026](https://oksana3301.github.io/portfolio2026/)**
 
 ## 🛠️ Tech Stack
 
