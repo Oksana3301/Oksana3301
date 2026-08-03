@@ -1,5 +1,5 @@
 <!-- ============================================================ -->
-<!--  Atika Dewi Suryani · GitHub Profile README                  -->
+<!--  Atika Dewi Suryani · GitHub Profile README (v1.1)           -->
 <!--  Design system: emerald #10B981 · teal #0F766E · sky #38BDF8 -->
 <!--  All stats cards ship light + dark variants via <picture>.   -->
 <!-- ============================================================ -->
