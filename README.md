@@ -1,9 +1,3 @@
-<!-- ============================================================ -->
-<!--  Atika Dewi Suryani · GitHub Profile README (v1.1)           -->
-<!--  Design system: emerald #10B981 · teal #0F766E · sky #38BDF8 -->
-<!--  All stats cards ship light + dark variants via <picture>.   -->
-<!-- ============================================================ -->
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:10B981,100:38BDF8&height=210&section=header&text=Atika%20Dewi%20Suryani&fontSize=44&fontColor=FFFFFF&fontAlignY=32&desc=Data%20Analytics%20%C2%B7%20Full-Stack%20Development%20%C2%B7%20Sustainability%20Tech&descSize=16&descAlignY=52&animation=fadeIn" width="100%" alt="header banner" />
 </div>
