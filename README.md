@@ -125,35 +125,11 @@
   </picture>
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oksana3301&theme=github_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oksana3301&theme=default" width="100%" alt="profile details" />
-  </picture>
-</div>
+## 📊 Metrics
 
+<!-- Generated daily by lowlighter/metrics via GitHub Actions (.github/workflows/metrics.yml) -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oksana3301&theme=github_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oksana3301&theme=default" width="32%" alt="repos per language" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Oksana3301&theme=github_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Oksana3301&theme=default" width="32%" alt="most commit language" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Oksana3301&theme=github_dark&utcOffset=7" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Oksana3301&theme=default&utcOffset=7" width="32%" alt="productive time (WIB)" />
-  </picture>
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Oksana3301&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Oksana3301&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Oksana3301/Oksana3301/main/github-metrics.svg" alt="metrics infographic" width="100%" />
 </div>
 
 ## 🐍 Contribution Snake
